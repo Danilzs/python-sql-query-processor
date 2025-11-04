@@ -4,6 +4,12 @@
 
 Sistema de processamento e otimização de consultas SQL desenvolvido para a disciplina de Banco de Dados.
 
+## 📚 Documentação Completa
+
+Para uma documentação técnica detalhada com todos os detalhes do desenvolvimento de cada atividade, incluindo trechos importantes de código e exemplos, consulte:
+
+**[DOCUMENTACAO.md](./DOCUMENTACAO.md)** - Documentação Técnica Completa do Projeto
+
 ## 📋 Descrição
 
 Este projeto implementa um processador de consultas que:
